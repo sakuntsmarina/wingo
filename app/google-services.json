@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544552849219",
+    "project_id": "wingo-b7f23",
+    "storage_bucket": "wingo-b7f23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544552849219:android:c9ed1850435e3765e8a9f6",
+        "android_client_info": {
+          "package_name": "com.wingo.sakunts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5SBiXc2pLjkVC3xrJSMqkme2vy3ZlCPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
